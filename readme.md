@@ -10,15 +10,15 @@ This is a compact calculator with floating point
 
 Input
 -----
-2.0*2.5
-5.0*(3.5+2)
-5.25*3
+2.0*2.5  
+5.0*(3.5+2)  
+5.25*3  
 
 Output
 ------
-5.0
-27.5
-15.8
+5.0  
+27.5  
+15.8  
 
 ## how to run 
 
