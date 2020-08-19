@@ -10,9 +10,9 @@ This is a compact calculator with floating point
 
 Input
 -----
-2.0*2.5  
-5.0*(3.5+2)  
-5.25*3  
+2.0 * 2.5  
+5.0 * (3.5+2)  
+5.25 * 3  
 
 Output
 ------
